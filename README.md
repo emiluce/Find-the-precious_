@@ -39,9 +39,23 @@
 </div>
 <br>
 
-<h1>Fellows wanted dead (or alive if you want to eat them later)</h1> 
-   
-   
-   
+<section>
+<h2>Fellows wanted dead (or alive if you want to eat them later)</h2>
+ <div>
+  <ul>
+   <li>
+    
+   </li>
+   <li>
+    
+   </li>
+   <li>
+    
+   </li>
+  </ul>
+ </div>
+</section> 
+
+
  </body>
 </html>
