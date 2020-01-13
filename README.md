@@ -44,18 +44,46 @@
  <div>
   <ul>
    <li>
-    
+    <img src="img1.jpg" style="width:100%">
+    <h3>The Wizard</h3>
    </li>
    <li>
-    
+    <img src="img1.jpg" style="width:100%">
+    <h3>Hobbit #3</h3>
    </li>
    <li>
-    
+    <img src="img1.jpg" style="width:100%">
+    <h3>Yummy Dwarf</h3>
    </li>
   </ul>
  </div>
-</section> 
+</section>
 
+<hr/>
 
+<section>
+ <h2>Contact Us</h2>
+  <form>
+   <label>@</label><input type="email"/>
+<br/>
+   <label></label><input type="address"/>
+   <label>Your Message</label><textarea name="Your message" cols="25" rows="3"></textarea>
+<br/>
+   <input class="submit" type="submit" value="Send"/>
+  </form>
+ </section>
+ 
+ <footer>
+ <nav>
+     <ul>
+      <li>About us</li>
+      <li>Fellows</li>
+      <li>Join our army</li>
+     </ul>
+ </nav>
+ 
+ </footer>
+ 
+ 
  </body>
 </html>
