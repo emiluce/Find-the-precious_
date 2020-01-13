@@ -1,7 +1,7 @@
 # Find-the-precious_
 
-<! DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
  <meta charset="utf-8">
  <title>Find the Precious</title>
@@ -21,16 +21,10 @@
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="img1.jpg" style="width:100%">
+  <div>
+    <img src="https://via.placeholder.com/140" alt="https://placeholder.com/">
     <div class="text">Dangerous fellowship try to destroy the ring</div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="img2.jpg" style="width:100%">
-    <div class="text"></div>
+    <div>Orcs, Goblings, Balrogs, Protect your master Sauron</div>
   </div>
    
    <!-- Next and previous buttons -->
@@ -44,16 +38,22 @@
  <div>
   <ul>
    <li>
-    <img src="img1.jpg" style="width:100%">
+    <p>Reward 1000 gold coins</p>
+    <img src="https://via.placeholder.com/200" alt="https://placeholder.com/">
     <h3>The Wizard</h3>
+    <p>Small description...</p>
    </li>
    <li>
-    <img src="img1.jpg" style="width:100%">
+    <p>Dead</p>
+    <img src="https://via.placeholder.com/200" alt="https://placeholder.com/">
     <h3>Hobbit #3</h3>
+    <p>Small description...</p>
    </li>
    <li>
-    <img src="img1.jpg" style="width:100%">
+    <p>Reward 250 gold coins</p>
+    <img src="https://via.placeholder.com/200" alt="https://placeholder.com/">
     <h3>Yummy Dwarf</h3>
+    <p>Small description...</p>
    </li>
   </ul>
  </div>
@@ -64,10 +64,13 @@
 <section>
  <h2>Contact Us</h2>
   <form>
-   <label>@</label><input type="email"/>
+   <label></label><input type="email" placeholder="@"/>
 <br/>
-   <label></label><input type="address"/>
-   <label>Your Message</label><textarea name="Your message" cols="25" rows="3"></textarea>
+   <label></label><input type="tel" placeholder=" "/>
+<br/>
+   <label></label><input type="text" placeholder="I have seen one of them"/>
+<br/>
+   <label></label><textarea name="Your message" placeholder="Your message"></textarea>
 <br/>
    <input class="submit" type="submit" value="Send"/>
   </form>
@@ -81,9 +84,16 @@
       <li>Join our army</li>
      </ul>
  </nav>
- 
+ <nav>
+     <ul>
+      <li>FAQ</li>
+      <li>Reward conditions</li>
+      <li>Legal mentions</li>
+     </ul>
+ </nav>
+ <p><a href="https://Sauron4ever.com" target="_blank" rel="noopener">Sauron4ever.com</a>
+ </p>
+   <p>Follow him also on twitter</p>
  </footer>
- 
- 
  </body>
 </html>
